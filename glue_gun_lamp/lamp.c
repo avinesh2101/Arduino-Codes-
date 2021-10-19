@@ -318,3 +318,8 @@ uint32_t Wheel(byte WheelPos)
   WheelPos -= 170;
   return strip.Color(WheelPos * 3, 255 - WheelPos * 3, 0);
 }
+
+
+
+//https://create.arduino.cc/projecthub/john-bradnam/hot-glue-led-matrix-lamp-42322b?ref=platform&ref_id=424_trending___&offset=42
+//link to detailed article 
