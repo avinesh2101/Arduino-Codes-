@@ -7,3 +7,5 @@ void setup()
 }
 
 //that's it just make sure to write readable code which is easy to understand with proper comments
+
+//don't forget to add circuit diagram or GIF and star the repo
