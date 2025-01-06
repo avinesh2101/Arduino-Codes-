@@ -1,6 +1,4 @@
 
-# 🎆Hacktoberfest 2021🎆
-![banner](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
 <!-- ![banner](https://github.com/avinesh2101/hacktoberfest/blob/main/temp/banner08CRredlogo.png) -->
               
               In this repo we are going to add different codes and functionality of arduino.
